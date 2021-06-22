@@ -16,9 +16,14 @@ Pastikan kamu menonton videonya terlebih dahulu sebelum menyalin apapun dari sin
 
 </br>
 
+[Tutorial #01 - Getting Started](https://youtu.be/Y3mFZYhUu9o)\
+[Tutorial #02 - Command & Prefix](https://youtu.be/a3aIzDYZ3B4)
+
+</br>
+
 Made by our beloved teams
 - rnggadosen._
 - y
 - y
 
-DisCoder C All Rights Reserved.
+DisCoder © All Rights Reserved.
