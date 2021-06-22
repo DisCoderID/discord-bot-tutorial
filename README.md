@@ -16,6 +16,7 @@ Pastikan kamu menonton videonya terlebih dahulu sebelum menyalin apapun dari sin
 
 </br>
 
+[Old repository, some code may not working](https://github.com/DisCoderID/discord-bot-tutorial-old)
 [Tutorial #01 - Getting Started](https://youtu.be/Y3mFZYhUu9o)\
 [Tutorial #02 - Command & Prefix](https://youtu.be/a3aIzDYZ3B4)
 
